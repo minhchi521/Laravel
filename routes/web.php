@@ -6,5 +6,5 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 Route::get('/', function () {
-    return view('oke', ['ten' => 'thảo my tẻn']);
+    return view('xinchao', ['ten' => 'thảo my tẻn']);
 });
